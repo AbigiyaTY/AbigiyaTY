@@ -1,6 +1,6 @@
 ### Hi, I'm Abigiya 👋
 
-I am a 👨‍💻 frontend developer, an avid learner who is passionate about web technologies and building cool projects. I love creating open-source projects and contributing to the community.
+I am a 👨‍💻 frontend developer,who is passionate about web technologies and building cool projects. I love creating open-source projects and contributing to the community.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

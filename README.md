@@ -1,6 +1,6 @@
 ### Hi, I'm Abigiya 👋
 
-I am a 👨‍💻 Front-End developer, who is passionate about web technologies and building cool projects. I love creating open-source projects and contributing to the community.
+I am a 👨‍💻 Full-stack Developer || Back-end Developer || Front-end Developer || Proficient in Ruby on Rails, React, Redux, Javascript || Enthusiastic about pair-programming || Lifetime learner.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,8 +37,8 @@ I am a 👨‍💻 Front-End developer, who is passionate about web technologies
 
 ### 📫 How to reach me:
 - Email : Abigiyatadesse23@gmail.com
+- Linkdin : [@AbigiyaTY](https://www.linkedin.com/in/abigiyaty/)
 - Twitter : [@AbigiyaTY](https://twitter.com/AbigiyaTY)
-- Linkdin : [@AbigiyaTY](https://www.linkedin.com/in/abigiya-tadesse-6a0052234)
 - Portfolio : [Abigiyatadesse.com](https://www.abigiyatadesse.com/) 
 
 `⭐️ From [AbigiyaTY](https://github.com/[AbigiyaTY])`

@@ -38,9 +38,9 @@ I am a 👨‍💻 Full-stack Developer || Back-end Developer || Front-end Devel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbigiyaTY&theme=dark&hide_border=false)<br/>
 
 ### 📫 How to reach me:
-- Email : Abigiyatadesse23@gmail.com
-- Linkdin : [@AbigiyaTY](https://www.linkedin.com/in/abigiyaty/)
-- Twitter : [@AbigiyaTY](https://twitter.com/AbigiyaTY)
-- Portfolio : [Abigiyatadesse.com](https://www.abigiyatadesse.com/) 
+- Email: Abigiyatadesse23@gmail.com
+- Linkdin: [AbigiyaTY](https://www.linkedin.com/in/abigiyaty/)
+- Twitter: [AbigiyaTY](https://twitter.com/AbigiyaTY)
+- Portfolio: [AbigiyaTY](https://www.abigiyatadesse.com/) 
 
 `⭐️ From [AbigiyaTY](https://github.com/[AbigiyaTY])`

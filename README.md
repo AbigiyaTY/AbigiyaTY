@@ -30,8 +30,6 @@ I am a 👨‍💻 Full-stack Developer || Back-end Developer || Front-end Devel
 
 <br/>
 
-[![Abigiya's github stats](https://github-readme-stats.vercel.app/api?username=AbigiyaTY&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbigiyaTY&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbigiyaTY&theme=dark&hide_border=false)<br/>
